@@ -1,1 +1,312 @@
-<JSC032_Myoko_1941_Bow_ports.visual><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>Bow_ports</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>HP_JGM_1</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.350771 4.184328 1.000000</row3></transform></node><node><identifier>MP_JTC0823</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.332346 5.239034 1.000000</row3></transform></node><node><identifier>MP_JTC0824</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.402064 6.215052 1.000000</row3></transform></node><node><identifier>MP_JTC0822</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>-0.000317 0.336313 5.522448 1.000000</row3></transform></node><node><identifier>MP_JTC0820</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.001534 0.359734 5.939153 1.000000</row3></transform></node><node><identifier>MP_JM307_Chrysanthemum_petal_1</identifier><transform><row0>0.678264 0.719161 0.264222 0.000000</row0><row1>-0.718066 0.719747 -0.115719 0.000000</row1><row2>-0.267181 -0.108713 0.981755 0.000000</row2><row3>0.000000 0.466857 6.819944 1.000000</row3></transform></node><node><identifier>MP_JM307_Chrysanthemum_petal_1_INDEX_1</identifier><transform><row0>-1.023253 0.000000 0.000000 0.000000</row0><row1>0.000000 -1.023059 -0.019938 0.000000</row1><row2>0.000000 -0.019938 1.023059 0.000000</row2><row3>0.000000 0.466857 6.819944 1.000000</row3></transform></node><node><identifier>MP_JM307_Chrysanthemum_petal_1_INDEX_2</identifier><transform><row0>-0.902837 -0.401963 0.265250 0.000000</row0><row1>0.391282 -0.940812 -0.093902 0.000000</row1><row2>0.280767 0.018578 0.983805 0.000000</row2><row3>0.000000 0.466857 6.819944 1.000000</row3></transform></node><node><identifier>MP_JTC0825</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.024701 0.312448 4.524820 1.000000</row3></transform></node><node><identifier>MP_JM013_Reels_1</identifier><transform><row0>0.000000 0.000000 0.850000 0.000000</row0><row1>0.000000 0.850000 0.000000 0.000000</row1><row2>-1.000000 0.000000 0.000000 0.000000</row2><row3>-0.102014 0.306253 4.685477 1.000000</row3></transform></node><node><identifier>MP_JM307_Chrysanthemum_petal_1_INDEX_3</identifier><transform><row0>1.023253 0.000000 0.000000 0.000000</row0><row1>0.000000 1.023253 0.000000 0.000000</row1><row2>0.000000 0.000000 1.023253 0.000000</row2><row3>0.000000 0.466857 6.819944 1.000000</row3></transform></node><node><identifier>MP_JM307_Chrysanthemum_petal_1_INDEX_4</identifier><transform><row0>0.678264 -0.719161 -0.264222 0.000000</row0><row1>0.718066 0.719747 -0.115719 0.000000</row1><row2>0.267181 -0.108713 0.981755 0.000000</row2><row3>0.000000 0.466857 6.819944 1.000000</row3></transform></node><node><identifier>MP_JTC0821</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.419558 6.471331 1.000000</row3></transform></node><node><identifier>MP_JTC0826</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>-0.045985 0.306160 4.572095 1.000000</row3></transform></node><node><identifier>MP_CTC0427</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000004 0.389255 6.265132 1.000000</row3></transform></node><node><identifier>MP_JM307_Chrysanthemum_petal_1_INDEX_5</identifier><transform><row0>0.000000 -1.023253 0.000000 0.000000</row0><row1>0.990904 0.000000 -0.255256 0.000000</row1><row2>0.255256 0.000000 0.990904 0.000000</row2><row3>0.000000 0.466857 6.819944 1.000000</row3></transform></node><node><identifier>MP_JM307_Chrysanthemum_petal_1_INDEX_6</identifier><transform><row0>-0.902837 0.401963 -0.265250 0.000000</row0><row1>-0.391282 -0.940812 -0.093902 0.000000</row1><row2>-0.280767 0.018578 0.983805 0.000000</row2><row3>0.000000 0.466857 6.819944 1.000000</row3></transform></node><node><identifier>MP_JM307_Chrysanthemum_petal_1_INDEX_7</identifier><transform><row0>0.349939 -0.941090 -0.197329 0.000000</row0><row1>0.922187 0.387941 -0.214757 0.000000</row1><row2>0.272325 -0.104394 0.980810 0.000000</row2><row3>0.000000 0.466857 6.819944 1.000000</row3></transform></node><node><identifier>MP_JM307_Chrysanthemum_petal_1_INDEX_8</identifier><transform><row0>-0.374179 -0.947455 0.096777 0.000000</row0><row1>0.918268 -0.386488 -0.233362 0.000000</row1><row2>0.252629 0.001513 0.991576 0.000000</row2><row3>0.000000 0.466857 6.819944 1.000000</row3></transform></node><node><identifier>MP_JM307_Chrysanthemum_petal_1_INDEX_9</identifier><transform><row0>-0.374179 0.947455 -0.096777 0.000000</row0><row1>-0.918268 -0.386488 -0.233362 0.000000</row1><row2>-0.252629 0.001513 0.991576 0.000000</row2><row3>0.000000 0.466857 6.819944 1.000000</row3></transform></node><node><identifier>MP_JM306_Chrysanthemum_mid</identifier><transform><row0>1.023253 0.000000 0.000000 0.000000</row0><row1>0.000000 1.023253 0.000000 0.000000</row1><row2>0.000000 0.000000 1.023253 0.000000</row2><row3>0.000000 0.466857 6.822151 1.000000</row3></transform></node><node><identifier>MP_JM307_Chrysanthemum_petal_1_INDEX_10</identifier><transform><row0>0.934777 -0.393437 -0.135814 0.000000</row0><row1>0.392593 0.944348 -0.033536 0.000000</row1><row2>0.138235 -0.021472 1.013645 0.000000</row2><row3>0.000000 0.466857 6.819944 1.000000</row3></transform></node><node><identifier>MP_CM004_Barbette_Out</identifier><transform><row0>1.538496 0.000000 0.000000 0.000000</row0><row1>0.000000 0.746723 0.000000 0.000000</row1><row2>0.000000 0.000000 1.538496 0.000000</row2><row3>0.000000 0.347910 4.184357 1.000000</row3></transform></node><node><identifier>MP_JM017_Ventilators_1</identifier><transform><row0>0.747078 0.000000 0.000000 0.000000</row0><row1>0.000000 0.747078 0.000000 0.000000</row1><row2>0.000000 0.000000 0.747078 0.000000</row2><row3>0.356823 0.306934 5.045382 1.000000</row3></transform></node><node><identifier>MP_JM307_Chrysanthemum_petal_1_INDEX_11</identifier><transform><row0>-0.701780 0.730470 -0.144792 0.000000</row0><row1>-0.707158 -0.716059 -0.185024 0.000000</row1><row2>-0.233407 -0.026831 0.995916 0.000000</row2><row3>0.000000 0.466857 6.819944 1.000000</row3></transform></node><node><identifier>MP_JM307_Chrysanthemum_petal_1_INDEX_12</identifier><transform><row0>0.349939 0.941090 0.197329 0.000000</row0><row1>-0.922187 0.387941 -0.214757 0.000000</row1><row2>-0.272325 -0.104394 0.980810 0.000000</row2><row3>0.000000 0.466857 6.819944 1.000000</row3></transform></node><node><identifier>MP_JM307_Chrysanthemum_petal_1_INDEX_13</identifier><transform><row0>0.000000 1.023253 0.000000 0.000000</row0><row1>-0.990904 0.000000 -0.255256 0.000000</row1><row2>-0.255256 0.000000 0.990904 0.000000</row2><row3>0.000000 0.466857 6.819944 1.000000</row3></transform></node><node><identifier>MP_JM307_Chrysanthemum_petal_1_INDEX_14</identifier><transform><row0>0.934777 0.393437 0.135814 0.000000</row0><row1>-0.392593 0.944348 -0.033536 0.000000</row1><row2>-0.138235 -0.021472 1.013645 0.000000</row2><row3>0.000000 0.466857 6.819944 1.000000</row3></transform></node><node><identifier>MP_JM078_Deck_Winch_2</identifier><transform><row0>0.000000 0.000000 0.650000 0.000000</row0><row1>0.000000 0.650000 0.000000 0.000000</row1><row2>-0.650000 0.000000 0.000000 0.000000</row2><row3>-0.057057 0.306696 4.501872 1.000000</row3></transform></node><node><identifier>MP_JM307_Chrysanthemum_petal_1_INDEX_15</identifier><transform><row0>-0.701780 -0.730470 0.144792 0.000000</row0><row1>0.707158 -0.716059 -0.185024 0.000000</row1><row2>0.233407 -0.026831 0.995916 0.000000</row2><row3>0.000000 0.466857 6.819944 1.000000</row3></transform></node><node><identifier>HP_Fire_Burn_1</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 5.473751 1.000000</row3></transform></node><node><identifier>HP_Ship_death_1</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 3.893735 1.000000</row3></transform></node></node></node><boundingBox><min>-0.066700 -0.066700 -0.066700</min><max>0.066700 0.066700 0.066700</max></boundingBox></JSC032_Myoko_1941_Bow_ports.visual>
+<JSC032_Myoko_1941_Bow_ports.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Bow_ports	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_JGM_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.350771 4.184328 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTC0823	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.332346 5.239034 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTC0824	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.402064 6.215052 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTC0822	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.000317 0.336313 5.522448 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTC0820	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.001534 0.359734 5.939153 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM307_Chrysanthemum_petal_1	</identifier>
+				<transform>
+					<row0>	0.678264 0.719161 0.264222 0.000000	</row0>
+					<row1>	-0.718066 0.719747 -0.115719 0.000000	</row1>
+					<row2>	-0.267181 -0.108713 0.981755 0.000000	</row2>
+					<row3>	0.000000 0.466857 6.819944 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM307_Chrysanthemum_petal_1_INDEX_1	</identifier>
+				<transform>
+					<row0>	-1.023253 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 -1.023059 -0.019938 0.000000	</row1>
+					<row2>	0.000000 -0.019938 1.023059 0.000000	</row2>
+					<row3>	0.000000 0.466857 6.819944 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM307_Chrysanthemum_petal_1_INDEX_2	</identifier>
+				<transform>
+					<row0>	-0.902837 -0.401963 0.265250 0.000000	</row0>
+					<row1>	0.391282 -0.940812 -0.093902 0.000000	</row1>
+					<row2>	0.280767 0.018578 0.983805 0.000000	</row2>
+					<row3>	0.000000 0.466857 6.819944 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTC0825	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.024701 0.312448 4.524820 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM013_Reels_1	</identifier>
+				<transform>
+					<row0>	0.000000 0.000000 0.850000 0.000000	</row0>
+					<row1>	0.000000 0.850000 0.000000 0.000000	</row1>
+					<row2>	-1.000000 0.000000 0.000000 0.000000	</row2>
+					<row3>	-0.102014 0.306253 4.685477 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM307_Chrysanthemum_petal_1_INDEX_3	</identifier>
+				<transform>
+					<row0>	1.023253 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.023253 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.023253 0.000000	</row2>
+					<row3>	0.000000 0.466857 6.819944 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM307_Chrysanthemum_petal_1_INDEX_4	</identifier>
+				<transform>
+					<row0>	0.678264 -0.719161 -0.264222 0.000000	</row0>
+					<row1>	0.718066 0.719747 -0.115719 0.000000	</row1>
+					<row2>	0.267181 -0.108713 0.981755 0.000000	</row2>
+					<row3>	0.000000 0.466857 6.819944 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTC0821	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.419558 6.471331 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTC0826	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.045985 0.306160 4.572095 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTC0427	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000004 0.389255 6.265132 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM307_Chrysanthemum_petal_1_INDEX_5	</identifier>
+				<transform>
+					<row0>	0.000000 -1.023253 0.000000 0.000000	</row0>
+					<row1>	0.990904 0.000000 -0.255256 0.000000	</row1>
+					<row2>	0.255256 0.000000 0.990904 0.000000	</row2>
+					<row3>	0.000000 0.466857 6.819944 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM307_Chrysanthemum_petal_1_INDEX_6	</identifier>
+				<transform>
+					<row0>	-0.902837 0.401963 -0.265250 0.000000	</row0>
+					<row1>	-0.391282 -0.940812 -0.093902 0.000000	</row1>
+					<row2>	-0.280767 0.018578 0.983805 0.000000	</row2>
+					<row3>	0.000000 0.466857 6.819944 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM307_Chrysanthemum_petal_1_INDEX_7	</identifier>
+				<transform>
+					<row0>	0.349939 -0.941090 -0.197329 0.000000	</row0>
+					<row1>	0.922187 0.387941 -0.214757 0.000000	</row1>
+					<row2>	0.272325 -0.104394 0.980810 0.000000	</row2>
+					<row3>	0.000000 0.466857 6.819944 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM307_Chrysanthemum_petal_1_INDEX_8	</identifier>
+				<transform>
+					<row0>	-0.374179 -0.947455 0.096777 0.000000	</row0>
+					<row1>	0.918268 -0.386488 -0.233362 0.000000	</row1>
+					<row2>	0.252629 0.001513 0.991576 0.000000	</row2>
+					<row3>	0.000000 0.466857 6.819944 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM307_Chrysanthemum_petal_1_INDEX_9	</identifier>
+				<transform>
+					<row0>	-0.374179 0.947455 -0.096777 0.000000	</row0>
+					<row1>	-0.918268 -0.386488 -0.233362 0.000000	</row1>
+					<row2>	-0.252629 0.001513 0.991576 0.000000	</row2>
+					<row3>	0.000000 0.466857 6.819944 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM306_Chrysanthemum_mid	</identifier>
+				<transform>
+					<row0>	1.023253 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.023253 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.023253 0.000000	</row2>
+					<row3>	0.000000 0.466857 6.822151 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM307_Chrysanthemum_petal_1_INDEX_10	</identifier>
+				<transform>
+					<row0>	0.934777 -0.393437 -0.135814 0.000000	</row0>
+					<row1>	0.392593 0.944348 -0.033536 0.000000	</row1>
+					<row2>	0.138235 -0.021472 1.013645 0.000000	</row2>
+					<row3>	0.000000 0.466857 6.819944 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM004_Barbette_Out	</identifier>
+				<transform>
+					<row0>	1.538496 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.746723 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.538496 0.000000	</row2>
+					<row3>	0.000000 0.347910 4.184357 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM017_Ventilators_1	</identifier>
+				<transform>
+					<row0>	0.747078 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.747078 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 0.747078 0.000000	</row2>
+					<row3>	0.356823 0.306934 5.045382 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM307_Chrysanthemum_petal_1_INDEX_11	</identifier>
+				<transform>
+					<row0>	-0.701780 0.730470 -0.144792 0.000000	</row0>
+					<row1>	-0.707158 -0.716059 -0.185024 0.000000	</row1>
+					<row2>	-0.233407 -0.026831 0.995916 0.000000	</row2>
+					<row3>	0.000000 0.466857 6.819944 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM307_Chrysanthemum_petal_1_INDEX_12	</identifier>
+				<transform>
+					<row0>	0.349939 0.941090 0.197329 0.000000	</row0>
+					<row1>	-0.922187 0.387941 -0.214757 0.000000	</row1>
+					<row2>	-0.272325 -0.104394 0.980810 0.000000	</row2>
+					<row3>	0.000000 0.466857 6.819944 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM307_Chrysanthemum_petal_1_INDEX_13	</identifier>
+				<transform>
+					<row0>	0.000000 1.023253 0.000000 0.000000	</row0>
+					<row1>	-0.990904 0.000000 -0.255256 0.000000	</row1>
+					<row2>	-0.255256 0.000000 0.990904 0.000000	</row2>
+					<row3>	0.000000 0.466857 6.819944 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM307_Chrysanthemum_petal_1_INDEX_14	</identifier>
+				<transform>
+					<row0>	0.934777 0.393437 0.135814 0.000000	</row0>
+					<row1>	-0.392593 0.944348 -0.033536 0.000000	</row1>
+					<row2>	-0.138235 -0.021472 1.013645 0.000000	</row2>
+					<row3>	0.000000 0.466857 6.819944 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM078_Deck_Winch_2	</identifier>
+				<transform>
+					<row0>	0.000000 0.000000 0.650000 0.000000	</row0>
+					<row1>	0.000000 0.650000 0.000000 0.000000	</row1>
+					<row2>	-0.650000 0.000000 0.000000 0.000000	</row2>
+					<row3>	-0.057057 0.306696 4.501872 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM307_Chrysanthemum_petal_1_INDEX_15	</identifier>
+				<transform>
+					<row0>	-0.701780 -0.730470 0.144792 0.000000	</row0>
+					<row1>	0.707158 -0.716059 -0.185024 0.000000	</row1>
+					<row2>	0.233407 -0.026831 0.995916 0.000000	</row2>
+					<row3>	0.000000 0.466857 6.819944 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Fire_Burn_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 5.473751 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Ship_death_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 3.893735 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<boundingBox>
+		<min>	-0.066700 -0.066700 -0.066700	</min>
+		<max>	0.066700 0.066700 0.066700	</max>
+	</boundingBox>
+</JSC032_Myoko_1941_Bow_ports.visual>

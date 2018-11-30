@@ -1,1 +1,8 @@
-<JSC032_Myoko_1941_Stern.model><parent>PnFMods/SEA_ARP-Enhance-Pack/JSC709_Haguro/ship/JSC032_Myoko_1941_Stern_lod1</parent><extent>7.0000</extent><castsShadow>true</castsShadow><exporter>1.6</exporter><nodefullVisual>PnFMods/SEA_ARP-Enhance-Pack/JSC709_Haguro/ship/JSC032_Myoko_1941_Stern</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></JSC032_Myoko_1941_Stern.model>
+<JSC032_Myoko_1941_Stern.model>
+	<parent>	PnFMods/SEA_ARP-Enhance-Pack/JSC709_Haguro/ship/JSC032_Myoko_1941_Stern_lod1	</parent>
+	<extent>	7.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_ARP-Enhance-Pack/JSC709_Haguro/ship/JSC032_Myoko_1941_Stern	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JSC032_Myoko_1941_Stern.model>

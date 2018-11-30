@@ -1,1 +1,291 @@
-<JSC032_Myoko_1941_MidBack_lod3.visual><boundingBox><min>-0.789085 -0.462414 -3.542397</min><max>0.789085 2.190028 0.642659</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>MidBack</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>MidBack_Bugles</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node><node><identifier>MidBack_crack_MidFront_Bugles</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>MidBack_crack_MidFront_in_Bugles</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><node><identifier>MidBack_crack_MidFront</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>MidBack_crack_MidFront_in</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><node><identifier>MidBack_crack_Stern_Bugles</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>MidBack_crack_Stern_in_Bugles</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><node><identifier>MidBack_crack_Stern</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>MidBack_crack_Stern_in</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><node><identifier>MidBack_patch_Stern</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>MidBack_patch_Stern_Bugles</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidBack</node><geometry><vertices>MidBack_lod3Shape.vertices</vertices><primitive>MidBack_lod3Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Hull</identifier><mfm>PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/85484a896e85eae59098296616e4666d.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidBack_Bugles</node><geometry><vertices>MidBack_Bugles_lod3Shape.vertices</vertices><primitive>MidBack_Bugles_lod3Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Bulge</identifier><mfm>PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/1ff0e6a688bb5f481ff7fd3f0d503a94.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidBack_crack_MidFront_Bugles</node><geometry><vertices>MidBack_crack_MidFront_Bugles_lod3Shape.vertices</vertices><primitive>MidBack_crack_MidFront_Bugles_lod3Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Bulge</identifier><mfm>PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/1ff0e6a688bb5f481ff7fd3f0d503a94.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidBack_crack_MidFront_in_Bugles</node><geometry><vertices>MidBack_crack_MidFront_in_Bugles_lod3Shape.vertices</vertices><primitive>MidBack_crack_MidFront_in_Bugles_lod3Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Crack</identifier><mfm>PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/c5d3a62841c6a52e55fdc4be55b8a78f.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidBack_crack_MidFront</node><geometry><vertices>MidBack_crack_MidFront_lod3Shape.vertices</vertices><primitive>MidBack_crack_MidFront_lod3Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Hull</identifier><mfm>PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/85484a896e85eae59098296616e4666d.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidBack_crack_MidFront_in</node><geometry><vertices>MidBack_crack_MidFront_in_lod3Shape.vertices</vertices><primitive>MidBack_crack_MidFront_in_lod3Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Crack</identifier><mfm>PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/c5d3a62841c6a52e55fdc4be55b8a78f.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidBack_crack_Stern_Bugles</node><geometry><vertices>MidBack_crack_Stern_Bugles_lod3Shape.vertices</vertices><primitive>MidBack_crack_Stern_Bugles_lod3Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Bulge</identifier><mfm>PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/1ff0e6a688bb5f481ff7fd3f0d503a94.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidBack_crack_Stern_in_Bugles</node><geometry><vertices>MidBack_crack_Stern_in_Bugles_lod3Shape.vertices</vertices><primitive>MidBack_crack_Stern_in_Bugles_lod3Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Crack</identifier><mfm>PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/c5d3a62841c6a52e55fdc4be55b8a78f.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidBack_crack_Stern</node><geometry><vertices>MidBack_crack_Stern_lod3Shape.vertices</vertices><primitive>MidBack_crack_Stern_lod3Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Hull</identifier><mfm>PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/85484a896e85eae59098296616e4666d.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidBack_crack_Stern_in</node><geometry><vertices>MidBack_crack_Stern_in_lod3Shape.vertices</vertices><primitive>MidBack_crack_Stern_in_lod3Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Crack</identifier><mfm>PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/c5d3a62841c6a52e55fdc4be55b8a78f.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidBack_patch_Stern</node><geometry><vertices>MidBack_patch_Stern_lod3Shape.vertices</vertices><primitive>MidBack_patch_Stern_lod3Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Hull</identifier><mfm>PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/85484a896e85eae59098296616e4666d.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidBack_patch_Stern_Bugles</node><geometry><vertices>MidBack_patch_Stern_Bugles_lod3Shape.vertices</vertices><primitive>MidBack_patch_Stern_Bugles_lod3Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Bulge</identifier><mfm>PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/1ff0e6a688bb5f481ff7fd3f0d503a94.mfm</mfm></material></primitiveGroup></geometry></renderSet></JSC032_Myoko_1941_MidBack_lod3.visual>
+<JSC032_Myoko_1941_MidBack_lod3.visual>
+	<boundingBox>
+		<min>	-0.789085 -0.462414 -3.542397	</min>
+		<max>	0.789085 2.190028 0.642659	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	MidBack	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	MidBack_Bugles	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MidBack_crack_MidFront_Bugles	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	MidBack_crack_MidFront_in_Bugles	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	MidBack_crack_MidFront	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	MidBack_crack_MidFront_in	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	MidBack_crack_Stern_Bugles	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	MidBack_crack_Stern_in_Bugles	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	MidBack_crack_Stern	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	MidBack_crack_Stern_in	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	MidBack_patch_Stern	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	MidBack_patch_Stern_Bugles	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidBack	</node>
+		<geometry>
+			<vertices>	MidBack_lod3Shape.vertices	</vertices>
+			<primitive>	MidBack_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/JSC032_Myoko_1941.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidBack_Bugles	</node>
+		<geometry>
+			<vertices>	MidBack_Bugles_lod3Shape.vertices	</vertices>
+			<primitive>	MidBack_Bugles_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Bulge	</identifier>
+					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/JSC032_Myoko_1941_bools.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidBack_crack_MidFront_Bugles	</node>
+		<geometry>
+			<vertices>	MidBack_crack_MidFront_Bugles_lod3Shape.vertices	</vertices>
+			<primitive>	MidBack_crack_MidFront_Bugles_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Bulge	</identifier>
+					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/JSC032_Myoko_1941_bools.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidBack_crack_MidFront_in_Bugles	</node>
+		<geometry>
+			<vertices>	MidBack_crack_MidFront_in_Bugles_lod3Shape.vertices	</vertices>
+			<primitive>	MidBack_crack_MidFront_in_Bugles_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/C002_Razlom.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidBack_crack_MidFront	</node>
+		<geometry>
+			<vertices>	MidBack_crack_MidFront_lod3Shape.vertices	</vertices>
+			<primitive>	MidBack_crack_MidFront_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/JSC032_Myoko_1941.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidBack_crack_MidFront_in	</node>
+		<geometry>
+			<vertices>	MidBack_crack_MidFront_in_lod3Shape.vertices	</vertices>
+			<primitive>	MidBack_crack_MidFront_in_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/C002_Razlom.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidBack_crack_Stern_Bugles	</node>
+		<geometry>
+			<vertices>	MidBack_crack_Stern_Bugles_lod3Shape.vertices	</vertices>
+			<primitive>	MidBack_crack_Stern_Bugles_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Bulge	</identifier>
+					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/JSC032_Myoko_1941_bools.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidBack_crack_Stern_in_Bugles	</node>
+		<geometry>
+			<vertices>	MidBack_crack_Stern_in_Bugles_lod3Shape.vertices	</vertices>
+			<primitive>	MidBack_crack_Stern_in_Bugles_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/C002_Razlom.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidBack_crack_Stern	</node>
+		<geometry>
+			<vertices>	MidBack_crack_Stern_lod3Shape.vertices	</vertices>
+			<primitive>	MidBack_crack_Stern_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/JSC032_Myoko_1941.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidBack_crack_Stern_in	</node>
+		<geometry>
+			<vertices>	MidBack_crack_Stern_in_lod3Shape.vertices	</vertices>
+			<primitive>	MidBack_crack_Stern_in_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/C002_Razlom.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidBack_patch_Stern	</node>
+		<geometry>
+			<vertices>	MidBack_patch_Stern_lod3Shape.vertices	</vertices>
+			<primitive>	MidBack_patch_Stern_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/JSC032_Myoko_1941.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidBack_patch_Stern_Bugles	</node>
+		<geometry>
+			<vertices>	MidBack_patch_Stern_Bugles_lod3Shape.vertices	</vertices>
+			<primitive>	MidBack_patch_Stern_Bugles_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Bulge	</identifier>
+					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/JSC032_Myoko_1941_bools.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</JSC032_Myoko_1941_MidBack_lod3.visual>
