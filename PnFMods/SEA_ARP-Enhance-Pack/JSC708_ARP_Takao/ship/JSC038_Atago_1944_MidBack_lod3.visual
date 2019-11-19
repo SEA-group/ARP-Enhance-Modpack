@@ -101,7 +101,7 @@
 			<primitive>	MidBack_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/ship/JSC038_Atago_1944_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -121,7 +121,7 @@
 			<primitive>	MidBack_DeckHouse_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouse	</identifier>
+					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/ship/JSC038_Atago_1944_Deck_house.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -135,7 +135,7 @@
 			<primitive>	MidBack_crack_MidFront_DeckHouse_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouse	</identifier>
+					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/ship/JSC038_Atago_1944_Deck_house.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -149,7 +149,7 @@
 			<primitive>	MidBack_crack_MidFront_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/ship/JSC038_Atago_1944_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -177,7 +177,7 @@
 			<primitive>	MidBack_crack_Stern_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/ship/JSC038_Atago_1944_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -205,7 +205,7 @@
 			<primitive>	MidBack_patch_Stern_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/ship/JSC038_Atago_1944_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>

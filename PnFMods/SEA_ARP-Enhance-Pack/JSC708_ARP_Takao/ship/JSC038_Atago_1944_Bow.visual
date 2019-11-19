@@ -74,7 +74,7 @@
 			<primitive>	BowShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/ship/JSC038_Atago_1944_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -108,7 +108,7 @@
 			<primitive>	Bow_crack_MidFrontShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/ship/JSC038_Atago_1944_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -136,7 +136,7 @@
 			<primitive>	Bow_patch_MidFrontShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/ship/JSC038_Atago_1944_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>

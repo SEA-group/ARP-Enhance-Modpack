@@ -128,7 +128,7 @@
 			<primitive>	MidFront_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC737_Nachi/ship/JSC032_Myoko_1941.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -142,7 +142,7 @@
 			<primitive>	MidFront_Bugles_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Bulge	</identifier>
+					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC737_Nachi/ship/JSC032_Myoko_1941_bools.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -156,7 +156,7 @@
 			<primitive>	MidFront_crack_Bow_Bugles_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Bulge	</identifier>
+					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC737_Nachi/ship/JSC032_Myoko_1941_bools.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -184,7 +184,7 @@
 			<primitive>	MidFront_crack_Bow_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC737_Nachi/ship/JSC032_Myoko_1941.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -212,7 +212,7 @@
 			<primitive>	MidFront_crack_MidBack_Bugles_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Bulge	</identifier>
+					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC737_Nachi/ship/JSC032_Myoko_1941_bools.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -240,7 +240,7 @@
 			<primitive>	MidFront_crack_MidBack_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC737_Nachi/ship/JSC032_Myoko_1941.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -268,7 +268,7 @@
 			<primitive>	MidFront_patch_MidBack_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC737_Nachi/ship/JSC032_Myoko_1941.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -282,7 +282,7 @@
 			<primitive>	MidFront_patch_MidBack_Bugles_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Bulge	</identifier>
+					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC737_Nachi/ship/JSC032_Myoko_1941_bools.mfm	</mfm>
 				</material>
 			</primitiveGroup>

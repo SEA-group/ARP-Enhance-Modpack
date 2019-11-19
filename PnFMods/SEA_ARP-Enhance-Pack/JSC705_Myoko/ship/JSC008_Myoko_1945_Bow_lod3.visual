@@ -92,7 +92,7 @@
 			<primitive>	Bow_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/JSC008_Myoko_1945.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -106,7 +106,7 @@
 			<primitive>	Bow_Bugles_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Bulge	</identifier>
+					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/JSC032_Myoko_1941_bools.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -120,7 +120,7 @@
 			<primitive>	Bow_crack_MidFront_Bugles_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Bulge	</identifier>
+					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/JSC032_Myoko_1941_bools.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -148,7 +148,7 @@
 			<primitive>	Bow_crack_MidFront_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/JSC008_Myoko_1945.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -176,7 +176,7 @@
 			<primitive>	Bow_patch_MidFront_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/JSC008_Myoko_1945.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -190,7 +190,7 @@
 			<primitive>	Bow_patch_MidFront_Bugles_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Bulge	</identifier>
+					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/ship/JSC032_Myoko_1941_bools.mfm	</mfm>
 				</material>
 			</primitiveGroup>

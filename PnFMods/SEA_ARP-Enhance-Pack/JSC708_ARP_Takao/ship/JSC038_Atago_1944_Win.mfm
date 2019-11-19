@@ -17,4 +17,7 @@
         <property>	emissivePower
 		<Float>	1.200000	</Float>
 	</property>
+	<property>	doubleSided
+		<Bool>	true	</Bool>
+	</property>
 </JSC038_Atago_1944_Win.mfm>

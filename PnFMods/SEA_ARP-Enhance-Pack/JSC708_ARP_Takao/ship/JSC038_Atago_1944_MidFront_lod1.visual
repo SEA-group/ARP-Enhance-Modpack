@@ -119,7 +119,7 @@
 			<primitive>	MidFront_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/ship/JSC038_Atago_1944_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -145,7 +145,7 @@
 			<primitive>	MidFront_DeckHouse_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouse	</identifier>
+					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/ship/JSC038_Atago_1944_Deck_house.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -159,7 +159,7 @@
 			<primitive>	MidFront_crack_Bow_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/ship/JSC038_Atago_1944_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -187,7 +187,7 @@
 			<primitive>	MidFront_crack_MidBack_DeckHouse_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouse	</identifier>
+					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/ship/JSC038_Atago_1944_Deck_house.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -201,7 +201,7 @@
 			<primitive>	MidFront_crack_MidBack_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/ship/JSC038_Atago_1944_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -229,7 +229,7 @@
 			<primitive>	MidFront_patch_MidBack_DeckHouse_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouse	</identifier>
+					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/ship/JSC038_Atago_1944_Deck_house.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -243,7 +243,7 @@
 			<primitive>	MidFront_patch_MidBack_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/ship/JSC038_Atago_1944_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>

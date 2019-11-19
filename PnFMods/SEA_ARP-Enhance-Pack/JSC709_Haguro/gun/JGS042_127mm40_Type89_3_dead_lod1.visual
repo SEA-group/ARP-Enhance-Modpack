@@ -52,7 +52,7 @@
 			<primitive>	shield_dead_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDead	</identifier>
+					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC709_Haguro/gun/JGS042_127mm40_Type89_3_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>
