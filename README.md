@@ -10,7 +10,7 @@ Presented by SEA group
 
 ## How to use
 1. Copy "PnFMods" and "PnFModsLoader.py" into /res_mods/a.b.c.d(current version)/
-2. Demount the default ARP skin from your ship (But you can still use consumable camouflages)
+2. Demount the default ARP skin from your ship (But you can still use consumable camouflages) or turn off "Arpeggio" display in port configuration
 
 ## 内容
 1. 官方苍蓝金刚级和妙高级的炮管展开和发光舰载机
@@ -18,7 +18,7 @@ Presented by SEA group
 
 ## 使用方法
 1. 将PnFMods和PnFModsLoader.py复制到/res_mods/a.b.c.d(当前客户端版本号)/
-2. 卸下默认的苍蓝涂装 （可以正常使用消耗品迷彩）
+2. 卸下默认的苍蓝涂装（可以正常使用消耗品迷彩）或在港口设置中关闭显示Arpeggio
 
 ## Preview
 ![ARP-Enhance-Modpack](https://raw.githubusercontent.com/SEA-group/ARP-Enhance-Modpack/master/Affiche.jpg)

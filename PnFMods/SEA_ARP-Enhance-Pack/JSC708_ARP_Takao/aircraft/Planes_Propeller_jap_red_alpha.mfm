@@ -2,10 +2,10 @@
 	<fx>	shaders/std_effects/lightonly_alpha_flat.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/aircraft/Planes_Propeller_jap_red_a.tga	</Texture>
+	</property>
 	<property>	doubleSided
 		<Bool>	true	</Bool>
-	</property>
-	<property>	diffuseMap
-		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/aircraft/Planes_Propeller_jap_Takao_alpha_a.tga	</Texture>
 	</property>
 </Planes_Propeller_jap_red_alpha.mfm>

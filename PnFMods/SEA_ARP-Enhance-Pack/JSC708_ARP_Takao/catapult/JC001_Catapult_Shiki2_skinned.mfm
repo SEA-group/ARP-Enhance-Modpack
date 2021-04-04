@@ -3,15 +3,15 @@
 	<materialKind>	0	</materialKind>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	normalMap
-		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/catapult/JC001_Catapult_Shiki2_n.dds	</Texture>
+		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/catapult/JC001_Catapult_Shiki2_n.tga	</Texture>
 	</property>
 	<property>	metallicGlossMap
-		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/catapult/JC001_Catapult_Shiki2_mg.dds	</Texture>
+		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/catapult/JC001_Catapult_Shiki2_mg.tga	</Texture>
 	</property>
 	<property>	diffuseMap
-		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/catapult/JC001_Catapult_Shiki2_a.dds	</Texture>
+		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/catapult/JC001_Catapult_Shiki2_a.tga	</Texture>
 	</property>
 	<property>	ambientOcclusionMap
-		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/catapult/default_ao.dds	</Texture>
+		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/catapult/default_ao.tga	</Texture>
 	</property>
 </JC001_Catapult_Shiki2_skinned.mfm>

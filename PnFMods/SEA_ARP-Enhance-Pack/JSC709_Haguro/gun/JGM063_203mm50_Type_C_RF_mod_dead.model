@@ -1,5 +1,5 @@
 <JGM063_203mm50_Type_C_RF_mod_dead.model>
-	<parent>	PnFMods/SEA_ARP-Enhance-Pack/JSC709_Haguro/gun/JGM063_203mm50_Type_C_RF_mod_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_ARP-Enhance-Pack/JSC709_Haguro/gun/lods/JGM063_203mm50_Type_C_RF_mod_dead_lod1	</parent>
 	<extent>	5.000000	</extent>
 	<castsShadow>	true	</castsShadow>
 	<exporter>	1.6	</exporter>

@@ -38,6 +38,15 @@
 				</transform>
 			</node>
 			<node>
+				<identifier>	MidFront_DeckHouse_wire	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	MidFront_crack_Bow	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
@@ -72,6 +81,15 @@
 						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 					</transform>
 				</node>
+			</node>
+			<node>
+				<identifier>	MidFront_wire	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
 			</node>
 			<node>
 				<identifier>	MidFront_crack_MidBack	</identifier>
@@ -117,24 +135,33 @@
 					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
 					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 				</transform>
-				<node>
-					<identifier>	MidFront_patch_MidBack_Bugles	</identifier>
-					<transform>
-						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-					</transform>
-				</node>
-				<node>
-					<identifier>	MidFront_patch_MidBack_DeckHouse	</identifier>
-					<transform>
-						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-					</transform>
-				</node>
+			</node>
+			<node>
+				<identifier>	MidFront_patch_MidBack_Bugles	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MidFront_patch_MidBack_DeckHouse	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MidFront_patch_MidBack_wire	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
 			</node>
 		</node>
 	</node>
@@ -176,6 +203,20 @@
 				<material>
 					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC707_Ashigara/ship/JSC008_Myoko_1945.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_DeckHouse_wire	</node>
+		<geometry>
+			<vertices>	MidFront_DeckHouse_wireShape.vertices	</vertices>
+			<primitive>	MidFront_DeckHouse_wireShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC707_Ashigara/ship/JSC008_Myoko_1945_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
@@ -232,6 +273,20 @@
 				<material>
 					<identifier>	SHIPMAT_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC707_Ashigara/ship/C002_Razlom.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_wire	</node>
+		<geometry>
+			<vertices>	MidFront_wireShape.vertices	</vertices>
+			<primitive>	MidFront_wireShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC707_Ashigara/ship/JSC008_Myoko_1945_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
@@ -330,6 +385,20 @@
 				<material>
 					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC707_Ashigara/ship/JSC008_Myoko_1945.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_patch_MidBack_wire	</node>
+		<geometry>
+			<vertices>	MidFront_patch_MidBack_wireShape.vertices	</vertices>
+			<primitive>	MidFront_patch_MidBack_wireShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC707_Ashigara/ship/JSC008_Myoko_1945_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>

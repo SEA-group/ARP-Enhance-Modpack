@@ -3,15 +3,15 @@
 	<collisionFlags>	0	</collisionFlags>
 	<materialKind>	0	</materialKind>
 	<property>	diffuseMap
-		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/gun/JGS009_127mm40_Type_89_a.dds	</Texture>
+		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/gun/JGS009_127mm40_Type_89_a.tga	</Texture>
 	</property>
 	<property>	normalMap
-		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/gun/JGS009_127mm40_Type_89_n.dds	</Texture>
+		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/gun/JGS009_127mm40_Type_89_n.tga	</Texture>
 	</property>
 	<property>	metallicGlossMap
-		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/gun/JGS009_127mm40_Type_89_mg.dds	</Texture>
+		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/gun/JGS009_127mm40_Type_89_mg.tga	</Texture>
 	</property>
 	<property>	ambientOcclusionMap
-		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/gun/default_ao.dds	</Texture>
+		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/gun/default_ao.tga	</Texture>
 	</property>
 </JGS009_127mm40_Type_89_skinned.mfm>

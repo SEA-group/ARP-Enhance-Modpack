@@ -1,6 +1,6 @@
 <JC002_Catapult.model>
 	<extent>	2.000000	</extent>
-	<parent>	PnFMods/SEA_ARP-Enhance-Pack/JSB705_Kongou/catapult/JC002_Catapult_lod1	</parent>
+	<parent>	PnFMods/SEA_ARP-Enhance-Pack/JSB705_Kongou/catapult/lods/JC002_Catapult_lod1	</parent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>
 	<visibilityBox>

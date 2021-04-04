@@ -1,6 +1,6 @@
 <JSC008_Myoko_1945_Stern.visual>
 	<boundingBox>
-		<min>	-0.617447 -0.428881 -6.737965	</min>
+		<min>	-0.617447 -0.428881 -6.737964	</min>
 		<max>	0.634335 0.686561 -3.073545	</max>
 	</boundingBox>
 	<node>
@@ -37,7 +37,7 @@
 					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 				</transform>
 				<node>
-					<identifier>	Stern_crack_MidBack_in3	</identifier>
+					<identifier>	Stern_crack_MidBack_in	</identifier>
 					<transform>
 						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
@@ -46,7 +46,7 @@
 					</transform>
 				</node>
 				<node>
-					<identifier>	Stern_crack_MidBack_in	</identifier>
+					<identifier>	Stern_crack_MidBack_in3	</identifier>
 					<transform>
 						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
@@ -72,6 +72,15 @@
 						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 					</transform>
 				</node>
+			</node>
+			<node>
+				<identifier>	Stern_wire	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
 			</node>
 		</node>
 	</node>
@@ -119,10 +128,10 @@
 	</renderSet>
 	<renderSet>
 		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Stern_crack_MidBack_in3	</node>
+		<node>	Stern_crack_MidBack_in	</node>
 		<geometry>
-			<vertices>	Stern_crack_MidBack_in3Shape.vertices	</vertices>
-			<primitive>	Stern_crack_MidBack_in3Shape.indices	</primitive>
+			<vertices>	Stern_crack_MidBack_inShape.vertices	</vertices>
+			<primitive>	Stern_crack_MidBack_inShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
 					<identifier>	SHIPMAT_PBS_Crack	</identifier>
@@ -133,10 +142,10 @@
 	</renderSet>
 	<renderSet>
 		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Stern_crack_MidBack_in	</node>
+		<node>	Stern_crack_MidBack_in3	</node>
 		<geometry>
-			<vertices>	Stern_crack_MidBack_inShape.vertices	</vertices>
-			<primitive>	Stern_crack_MidBack_inShape.indices	</primitive>
+			<vertices>	Stern_crack_MidBack_in3Shape.vertices	</vertices>
+			<primitive>	Stern_crack_MidBack_in3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
 					<identifier>	SHIPMAT_PBS_Crack	</identifier>
@@ -169,6 +178,20 @@
 				<material>
 					<identifier>	SHIPMAT_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC737_Nachi/ship/C002_Razlom.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Stern_wire	</node>
+		<geometry>
+			<vertices>	Stern_wireShape.vertices	</vertices>
+			<primitive>	Stern_wireShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC737_Nachi/ship/JSC008_Myoko_1945_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>

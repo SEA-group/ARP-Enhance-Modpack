@@ -1,6 +1,6 @@
 <JGA052_7_7mmLewis_dead.model>
 	<extent>	1.000000	</extent>
-	<parent>	PnFMods/SEA_ARP-Enhance-Pack/JSC709_Haguro/gun/JGA052_7_7mmLewis_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_ARP-Enhance-Pack/JSC709_Haguro/gun/lods/JGA052_7_7mmLewis_dead_lod1	</parent>
 	<materialNames />
 	<castsShadow>	false	</castsShadow>
 	<visibilityBox>

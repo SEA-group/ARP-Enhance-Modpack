@@ -20,11 +20,20 @@
 				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 			</transform>
 			<node>
-				<identifier>	Bow_wire	</identifier>
+				<identifier>	Torp	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
 					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	Bow_wire	</identifier>
+				<transform>
+					<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
 					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 				</transform>
 			</node>
@@ -58,9 +67,9 @@
 			<node>
 				<identifier>	Bow_patch_MidFront_wire	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
 					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 				</transform>
 			</node>
@@ -78,9 +87,17 @@
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/ship/JSC038_Atago_1944_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
-			<primitiveGroup>	1
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Torp	</node>
+		<geometry>
+			<vertices>	Torp.vertices	</vertices>
+			<primitive>	Torp.indices	</primitive>
+			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Torp	</identifier>
+					<identifier>	SHIPMAT_PBS_TorpX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/ship/JSC038_Atago_1944_Torp.mfm	</mfm>
 				</material>
 			</primitiveGroup>

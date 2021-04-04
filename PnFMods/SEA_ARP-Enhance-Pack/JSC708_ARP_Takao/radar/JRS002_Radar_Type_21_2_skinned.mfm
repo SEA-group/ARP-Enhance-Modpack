@@ -3,15 +3,15 @@
 	<collisionFlags>	0	</collisionFlags>
 	<materialKind>	0	</materialKind>
 	<property>	metallicGlossMap
-		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/radar/JRS002_Radar_Type_21_2_mg.dds	</Texture>
+		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/radar/JRS002_Radar_Type_21_2_mg.tga	</Texture>
 	</property>
 	<property>	normalMap
-		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/radar/JRS002_Radar_Type_21_2_n.dds	</Texture>
+		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/radar/JRS002_Radar_Type_21_2_n.tga	</Texture>
 	</property>
 	<property>	diffuseMap
-		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/radar/JRS002_Radar_Type_21_2_a.dds	</Texture>
+		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/radar/JRS002_Radar_Type_21_2_a.tga	</Texture>
 	</property>
 	<property>	ambientOcclusionMap
-		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/radar/default_ao.dds	</Texture>
+		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/radar/default_ao.tga	</Texture>
 	</property>
 </JRS002_Radar_Type_21_2_skinned.mfm>

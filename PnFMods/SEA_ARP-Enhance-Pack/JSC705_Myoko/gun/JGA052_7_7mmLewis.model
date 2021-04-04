@@ -1,6 +1,6 @@
 <JGA052_7_7mmLewis.model>
 	<extent>	1.000000	</extent>
-	<parent>	PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/gun/JGA052_7_7mmLewis_lod1	</parent>
+	<parent>	PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/gun/lods/JGA052_7_7mmLewis_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.016057 0.000026 -0.032526	</min>

@@ -1,5 +1,5 @@
 <JSC032_Myoko_1941_Bow.model>
-	<parent>	PnFMods/SEA_ARP-Enhance-Pack/JSC709_Haguro/ship/JSC032_Myoko_1941_Bow_lod1	</parent>
+	<parent>	PnFMods/SEA_ARP-Enhance-Pack/JSC709_Haguro/ship/lods/JSC032_Myoko_1941_Bow_lod1	</parent>
 	<extent>	7.0000	</extent>
 	<castsShadow>	true	</castsShadow>
 	<exporter>	1.6	</exporter>

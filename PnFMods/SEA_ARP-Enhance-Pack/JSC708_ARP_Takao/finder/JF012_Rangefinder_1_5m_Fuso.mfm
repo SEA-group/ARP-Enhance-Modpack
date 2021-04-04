@@ -3,15 +3,15 @@
 	<materialKind>	0	</materialKind>
 	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
 	<property>	diffuseMap
-		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/finder/JF012_Rangefinder_1_5m_Fuso_a.dds	</Texture>
+		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/finder/JF012_Rangefinder_1_5m_Fuso_a.tga	</Texture>
 	</property>
 	<property>	ambientOcclusionMap
-		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/finder/default_ao.dds	</Texture>
+		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/finder/default_ao.tga	</Texture>
 	</property>
 	<property>	metallicGlossMap
-		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/finder/JF012_Rangefinder_1_5m_Fuso_mg.dds	</Texture>
+		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/finder/JF012_Rangefinder_1_5m_Fuso_mg.tga	</Texture>
 	</property>
 	<property>	normalMap
-		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/finder/JF012_Rangefinder_1_5m_Fuso_n.dds	</Texture>
+		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/finder/JF012_Rangefinder_1_5m_Fuso_n.tga	</Texture>
 	</property>
 </JF012_Rangefinder_1_5m_Fuso.mfm>

@@ -29,6 +29,15 @@
 				</transform>
 			</node>
 			<node>
+				<identifier>	Bow_wire	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	Bow_crack_MidFront	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
@@ -72,15 +81,24 @@
 					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
 					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 				</transform>
-				<node>
-					<identifier>	Bow_patch_MidFront_Bugles	</identifier>
-					<transform>
-						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-					</transform>
-				</node>
+			</node>
+			<node>
+				<identifier>	Bow_patch_MidFront_Bugles	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	Bow_patch_MidFront_wire	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
 			</node>
 		</node>
 	</node>
@@ -108,6 +126,20 @@
 				<material>
 					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC737_Nachi/ship/JSC032_Myoko_1941_bools.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Bow_wire	</node>
+		<geometry>
+			<vertices>	Bow_wireShape.vertices	</vertices>
+			<primitive>	Bow_wireShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC737_Nachi/ship/JSC008_Myoko_1945_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
@@ -192,6 +224,20 @@
 				<material>
 					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC737_Nachi/ship/JSC032_Myoko_1941_bools.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Bow_patch_MidFront_wire	</node>
+		<geometry>
+			<vertices>	Bow_patch_MidFront_wireShape.vertices	</vertices>
+			<primitive>	Bow_patch_MidFront_wireShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC737_Nachi/ship/JSC008_Myoko_1945_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>

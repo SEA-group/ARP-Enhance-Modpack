@@ -3,15 +3,15 @@
 	<collisionFlags>	0	</collisionFlags>
 	<materialKind>	0	</materialKind>
 	<property>	metallicGlossMap
-		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/director/JD008_Director_Type_91_mg.dds	</Texture>
+		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/director/JD008_Director_Type_91_mg.tga	</Texture>
 	</property>
 	<property>	normalMap
-		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/director/JD008_Director_Type_91_n.dds	</Texture>
+		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/director/JD008_Director_Type_91_n.tga	</Texture>
 	</property>
 	<property>	diffuseMap
-		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/director/JD008_Director_Type_91_a.dds	</Texture>
+		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/director/JD008_Director_Type_91_a.tga	</Texture>
 	</property>
 	<property>	ambientOcclusionMap
-		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/director/default_ao.dds	</Texture>
+		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/director/default_ao.tga	</Texture>
 	</property>
 </JD008_Director_Type_91.mfm>

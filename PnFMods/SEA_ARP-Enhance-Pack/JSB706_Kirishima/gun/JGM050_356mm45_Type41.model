@@ -1,6 +1,6 @@
 <JGM050_356mm45_Type41.model>
 	<extent>	4.0000	</extent>
-	<parent>	PnFMods/SEA_ARP-Enhance-Pack/JSB706_Kirishima/gun/JGM050_356mm45_Type41_lod1	</parent>
+	<parent>	PnFMods/SEA_ARP-Enhance-Pack/JSB706_Kirishima/gun/lods/JGM050_356mm45_Type41_lod1	</parent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>
 	<visibilityBox>

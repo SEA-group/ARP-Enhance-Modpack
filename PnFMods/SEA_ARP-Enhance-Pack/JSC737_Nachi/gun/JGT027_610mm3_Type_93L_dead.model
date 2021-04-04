@@ -1,6 +1,6 @@
 <JGT027_610mm3_Type_93L_dead.model>
 	<extent>	3.000000	</extent>
-	<parent>	PnFMods/SEA_ARP-Enhance-Pack/JSC737_Nachi/gun/JGT027_610mm3_Type_93L_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_ARP-Enhance-Pack/JSC737_Nachi/gun/lods/JGT027_610mm3_Type_93L_dead_lod1	</parent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>
 	<visibilityBox>

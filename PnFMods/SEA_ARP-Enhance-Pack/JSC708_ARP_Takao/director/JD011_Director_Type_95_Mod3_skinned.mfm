@@ -3,15 +3,15 @@
 	<materialKind>	0	</materialKind>
 	<fx>	shaders/std_effects/PBS_ship_skinned.fx	</fx>
 	<property>	diffuseMap
-		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/director/JD011_Director_Type_95_Mod3_a.dds	</Texture>
+		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/director/JD011_Director_Type_95_Mod3_a.tga	</Texture>
 	</property>
 	<property>	metallicGlossMap
-		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/director/JD011_Director_Type_95_Mod3_mg.dds	</Texture>
+		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/director/JD011_Director_Type_95_Mod3_mg.tga	</Texture>
 	</property>
 	<property>	normalMap
-		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/director/JD011_Director_Type_95_Mod3_n.dds	</Texture>
+		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/director/JD011_Director_Type_95_Mod3_n.tga	</Texture>
 	</property>
 	<property>	ambientOcclusionMap
-		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/director/default_ao.dds	</Texture>
+		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/director/default_ao.tga	</Texture>
 	</property>
 </JD011_Director_Type_95_Mod3_skinned.mfm>

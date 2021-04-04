@@ -2,9 +2,6 @@
 	<materialKind>	0	</materialKind>
 	<collisionFlags>	0	</collisionFlags>
 	<fx>	shaders/std_effects/PBS_emissive.fx	</fx>
-	<property>	emissivePower
-		<Float>	2.00000	</Float>
-	</property>
 	<property>	normalMap
 		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/aircraft/JAF017_Mitsubishi_A6M2_N_float_n.dds	</Texture>
 	</property>
@@ -16,5 +13,8 @@
 	</property>
 	<property>	diffuseMap
 		<Texture>	PnFMods/SEA_ARP-Enhance-Pack/JSC708_ARP_Takao/aircraft/JAF017_Mitsubishi_A6M2_N_float_a.dds	</Texture>
+	</property>
+	<property>	emissivePower
+		<Float>	2.00000	</Float>
 	</property>
 </JAF017_Mitsubishi_A6M2_N_float.mfm>
