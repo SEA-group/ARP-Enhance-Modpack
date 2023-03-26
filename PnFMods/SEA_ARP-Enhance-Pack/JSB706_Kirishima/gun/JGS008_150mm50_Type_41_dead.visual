@@ -29,7 +29,7 @@
 			<primitive>	turret_deadShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMATX_PBS_GunDeadX	</identifier>
+					<identifier>	SHIPMATX_PBSX_GunDeadX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSB706_Kirishima/gun/JGS008_150mm50_Type_41_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>

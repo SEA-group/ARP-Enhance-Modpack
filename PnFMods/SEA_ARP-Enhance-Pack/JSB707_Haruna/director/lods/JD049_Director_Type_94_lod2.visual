@@ -38,7 +38,7 @@
 			<primitive>	Type94_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMATX_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBSX_Director	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSB707_Haruna/director/JD049_Director_Type_94_10m.mfm	</mfm>
 				</material>
 			</primitiveGroup>

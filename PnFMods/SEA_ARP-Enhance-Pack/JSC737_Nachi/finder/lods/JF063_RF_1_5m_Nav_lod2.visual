@@ -29,7 +29,7 @@
 			<primitive>	Rangefinder_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMATX_PBS_radar	</identifier>
+					<identifier>	SHIPMATX_PBSX_radar	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC737_Nachi/finder/JF063_RF_1_5m_Nav.mfm	</mfm>
 				</material>
 			</primitiveGroup>

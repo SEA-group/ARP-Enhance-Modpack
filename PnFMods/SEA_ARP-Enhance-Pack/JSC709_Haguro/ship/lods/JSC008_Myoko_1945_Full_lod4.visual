@@ -29,7 +29,7 @@
 			<primitive>	Full_lod4Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMATX_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBSX_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC709_Haguro/ship/JSC008_Myoko_1945.mfm	</mfm>
 				</material>
 			</primitiveGroup>

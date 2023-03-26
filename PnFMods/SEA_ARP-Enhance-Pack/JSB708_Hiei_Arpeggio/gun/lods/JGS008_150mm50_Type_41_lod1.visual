@@ -122,7 +122,7 @@
 			<primitive>	turret_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMATX_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBSX_GunX	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSB708_Hiei_Arpeggio/gun/JGS008_150mm50_Type_41_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

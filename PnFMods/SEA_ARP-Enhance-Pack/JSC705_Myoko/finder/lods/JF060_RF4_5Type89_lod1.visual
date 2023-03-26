@@ -29,7 +29,7 @@
 			<primitive>	RF4_5Type89_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMATX_PBS_radar	</identifier>
+					<identifier>	SHIPMATX_PBSX_radar	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSC705_Myoko/finder/JF060_RF4_5Type89.mfm	</mfm>
 				</material>
 			</primitiveGroup>

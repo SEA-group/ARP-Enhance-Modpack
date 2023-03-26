@@ -66,7 +66,7 @@
 			<primitive>	JF053_Rangefinder_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMATX_PBS_radar	</identifier>
+					<identifier>	SHIPMATX_PBSX_radar	</identifier>
 					<mfm>	PnFMods/SEA_ARP-Enhance-Pack/JSB708_Hiei_Arpeggio/finder/JF053_Rangefinder_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
